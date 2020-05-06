@@ -1,0 +1,12 @@
+uwsgi
+flask
+tqdm
+networkx
+pandas
+numpy
+regex
+datetime
+python-louvain
+sklearn
+pyodbc
+requests
